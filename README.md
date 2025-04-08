@@ -1,8 +1,10 @@
 # Nitro4all
 
-# BetterDiscord link : https://drive.google.com/file/d/1i2xxYw16yznuFQnQ8oMB6oKXBwIy1MoI/view?usp=sharing
+# BetterDiscord link : 
+https://drive.google.com/file/d/1i2xxYw16yznuFQnQ8oMB6oKXBwIy1MoI/view?usp=sharing
 
-# Note : Use Imgur picture links for pic, security reason : imgur.com
+# Note : Use Imgur picture links for pic, security reason :
+https://imgur.com/upload
 
 
 
