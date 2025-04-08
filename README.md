@@ -1,5 +1,8 @@
 # Nitro4all
 
+# Note : Use Imgur picture links for pic, security reason.
+
+
 
 Nitro4all is a javascript wich work with BetterDiscord
 (betterdiscord instaler included)
