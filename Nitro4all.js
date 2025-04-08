@@ -2979,7 +2979,7 @@ module.exports = class YABDP4Nitro {
             ffmpegScript.remove();
         }
 
-        Data.save("YABDP4Nitro", "settings", settings);
+        Data.save("Nitr4all", "settings", settings);
         Logger.info(this.meta.name, "(v" + this.meta.version + ") has stopped.");
     }
     // #endregion
