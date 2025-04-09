@@ -28,7 +28,27 @@ I have added custom settings for screencast such like custom resolution, custom 
 
 Unlocked background theme and icons, unlocked profile colors with use of 3y3 script hidded in your bio, same for animated profile pic, and ban, you can use Nitro4all to use the prifle animation with 3y3 hidded in bio (again)
 
+Patch 2 : Now you can easily do it by go in Settings > Profile, i will do a tutorial if i got the time
 
+
+
+i've heard a person say if i can get banned from disocrd using a script, an no i respond him no, you can't get ban from discord using a script. 
+
+
+
+If you need anithing else pm/dm me on discord : 
+
+fory.pride
+
+
+
+
+# Contributor : Thx to all person under this !
+
+Thanks to Gataax for designing the badges,
+Thanks to Dinosorez to be an beta tester, 
+Thanks to Fory for creating the script, 
+Thanks to all person who downloaded the script,
 
 # BetterDiscord link : 
 https://betterdiscord.app/
