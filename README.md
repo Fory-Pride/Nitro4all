@@ -1,5 +1,7 @@
 # Nitro4all
 
+Require BetterDiscord ! 
+https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#betterdiscord-link-
 
 # Explaination :
 Nitro4all is a javascript wich work with BetterDiscord 
