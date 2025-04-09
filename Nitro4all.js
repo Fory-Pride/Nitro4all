@@ -310,8 +310,8 @@ const config = {
 };
 // #endregion
 
-// #region Exports
-module.exports = class YABDP4Nitro {
+// #region Exports 
+module.exports = class Nitro4all {
     constructor(meta){
         this.meta = meta;
     }
@@ -489,7 +489,7 @@ module.exports = class YABDP4Nitro {
             }
         }
 
-        DOM.removeStyle("YABDP4NitroBadges");
+        DOM.removeStyle("Nitro4all Badges");
         try {
             this.honorBadge();
         } catch(err){
@@ -829,7 +829,7 @@ module.exports = class YABDP4Nitro {
 
                         //AVI file warning
                         if(currentFile.file.type == "video/avi"){
-                            UI.showToast("[YABDP4Nitro] NOTE: AVI Files may send, but HTML5 and MP4 do not support all AVI video codecs, it may not play and FFmpeg may error!", { type: "warning" });
+                            UI.showToast("[Nitro4all] NOTE: AVI Files may send, but HTML5 and MP4 do not support all AVI video codecs, it may not play and FFmpeg may error!", { type: "warning" });
                         }
                         try {
                             let arrayBuffer = await currentFile.file.arrayBuffer();
@@ -864,7 +864,7 @@ module.exports = class YABDP4Nitro {
                         let outFileName = "output.mp4";
 
                         if(['audio/wav', 'audio/aiff', 'audio/x-ms-wma'].includes(currentFile.file.type)){
-                            Logger.info("YABDP4Nitro", 'Using MOV format for audio clip.');
+                            Logger.info("Nitro4all", 'Using MOV format for audio clip.');
                             outFileName = 'output.mov';
                         }
                         if(currentFile.file.type == 'audio/vnd.dolby.dd-raw'){
