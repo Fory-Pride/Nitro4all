@@ -1296,11 +1296,11 @@ module.exports = class Nitro4all {
         // Use CSS to select badge elements via aria-label and change them to the correct icon.
         DOM.addStyle("Nitro4allBadges", `
             a[aria-label="Another Nitro4all user!"] img {
-                content: url("https://raw.githubusercontent.com/riolubruh/riolubruh.github.io/main/badge.png") !important;
+                content: url("https://github.com/Fory-Pride/Nitro4all/blob/main/IMG_1475.jpeg") !important;
             }
             
             div [aria-label="Another Nitro4all user!"] > a > img {
-                content: url("https://raw.githubusercontent.com/riolubruh/riolubruh.github.io/main/badge.png") !important;
+                content: url("https://github.com/Fory-Pride/Nitro4all/blob/main/IMG_1475.jpeg") !important;
             }
 
             a[aria-label="nitro4all Creator!"] img, a[aria-label="nitro4all Contributor!"] img  {
