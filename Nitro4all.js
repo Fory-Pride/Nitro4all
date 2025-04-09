@@ -1294,24 +1294,24 @@ module.exports = class Nitro4all {
     honorBadge(){
 
         // Use CSS to select badge elements via aria-label and change them to the correct icon.
-        DOM.addStyle("YABDP4NitroBadges", `
-            a[aria-label="A fellow YABDP4Nitro user!"] img {
+        DOM.addStyle("Nitro4allBadges", `
+            a[aria-label="Another Nitro4all user!"] img {
                 content: url("https://raw.githubusercontent.com/riolubruh/riolubruh.github.io/main/badge.png") !important;
             }
             
-            div [aria-label="A fellow YABDP4Nitro user!"] > a > img {
+            div [aria-label="Another Nitro4all user!"] > a > img {
                 content: url("https://raw.githubusercontent.com/riolubruh/riolubruh.github.io/main/badge.png") !important;
             }
 
-            a[aria-label="YABDP4Nitro Creator!"] img, a[aria-label="YABDP4Nitro Contributor!"] img  {
+            a[aria-label="nitro4all Creator!"] img, a[aria-label="nitro4all Contributor!"] img  {
                 content: url("https://i.imgur.com/bYGGXnq.gif") !important;
             }
             
-            div [aria-label="YABDP4Nitro Creator!"] > a > img {
+            div [aria-label="Nitro4all Creator!"] > a > img {
                 content: url("https://i.imgur.com/bYGGXnq.gif") !important;
             }
             
-            div [aria-label="YABDP4Nitro Contributor!"] > a > img {
+            div [aria-label="Contributor!"] > a > img {
                 content: url("https://i.imgur.com/bYGGXnq.gif") !important;
             }
         `);
