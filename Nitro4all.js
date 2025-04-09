@@ -306,7 +306,7 @@ const config = {
         }
 
     ],
-    "main": "YABDP4Nitro.plugin.js"
+    "main": "Nitro4all.plugin.js"
 };
 // #endregion
 
