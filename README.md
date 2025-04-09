@@ -10,11 +10,10 @@ https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#note--use-imgur-pict
 
 
 
-Contributors :
+Pls check contibutors list :
 
-Fory_Pride creator !
+https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#contributor--thx-to-all-person-under-this-
 
-Thx to Gataax for badges !
 
 # Explaination :
 Nitro4all is a javascript wich work with BetterDiscord 
