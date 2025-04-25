@@ -1,7 +1,7 @@
 /**
  * @name Nitro4all
  * @author Fory
- * @version 5.8.0
+ * @version 5.8.
  * @description Unlock all screensharing modes, and use cross-server & GIF emotes!
  */
 /*@cc_on
