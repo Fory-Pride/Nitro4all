@@ -346,6 +346,7 @@ module.exports = class Nitro4all {
     saveAndUpdate(){ //Saves and updates settings and runs functions
         Data.save(this.meta.name, "settings", settings);
 
+//easter egg yaaay
         Patcher.unpatchAll(this.meta.name);
 
         if(settings.changePremiumType){
