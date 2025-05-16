@@ -1,6 +1,6 @@
 /**
  * @name Nitro4all
- * @author Fory
+ * @author Fory, warzone_furry
  * @version 5.8.0
  * @description Unlock all screensharing modes, and use cross-server & GIF emotes!
  */
