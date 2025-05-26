@@ -1475,7 +1475,7 @@ module.exports = class Nitro4all {
             ret.props.children.props.children.push(
                 //self explanatory create react element
                 React.createElement("button", {
-                    children: "Change Effect [YABDP4Nitro]",
+                    children: "Change Effect [Nitro4All]",
                     className: `${buttonClassModule.button} ${buttonClassModule.lookFilled} ${buttonClassModule.colorBrand} ${buttonClassModule.sizeSmall} ${buttonClassModule.grow}`,
                     size: "bd-button-small",
                     id: "changeProfileEffectButton",
@@ -1486,7 +1486,7 @@ module.exports = class Nitro4all {
                         marginLeft: "10px"
                     },
                     onClick: () => {
-                        UI.showConfirmationModal("Change Profile Effect (YABDP4Nitro)", React.createElement(EffectsModal));
+                        UI.showConfirmationModal("Change Profile Effect (Nitro4All)", React.createElement(EffectsModal));
                     }
 
                 })
@@ -1634,7 +1634,7 @@ module.exports = class Nitro4all {
             ret.props.children[0].props.children.push(
                 React.createElement("button", {
                     id: "decorationButton",
-                    children: "Change Decoration [YABDP4Nitro]",
+                    children: "Change Decoration [Nitro4All]",
                     style: {
                         width: "100px",
                         height: "50px",
@@ -1644,7 +1644,7 @@ module.exports = class Nitro4all {
                     },
                     className: `${buttonClassModule.button} ${buttonClassModule.lookFilled} ${buttonClassModule.colorBrand} ${buttonClassModule.sizeSmall} ${buttonClassModule.grow}`,
                     onClick: () => {
-                        UI.showConfirmationModal("Change Avatar Decoration (YABDP4Nitro)", React.createElement(DecorModal));
+                        UI.showConfirmationModal("Change Avatar Decoration (Ntiro4All)", React.createElement(DecorModal));
                     }
                 })
             );
@@ -1674,7 +1674,7 @@ module.exports = class Nitro4all {
                             UI.showToast("3y3 copied to clipboard!", { type: "info" });    
                         }catch(err){
                             UI.showToast("Failed to copy to clipboard!", { type: "error", forceShow: true });   
-                            Logger.error("YABDP4Nitro", err);
+                            Logger.error("Nitro4All", err);
                         }
                     },
                     src: "https://cdn.discordapp.com/avatar-decoration-presets/" + settings.avatarDecorations[listOfDecorationIds[i]] + ".png?size=64"
@@ -2328,7 +2328,7 @@ module.exports = class Nitro4all {
 
     //#region Streaming Unlock
     unlockAndCustomizeStreamButtons(){ //Unlock stream buttons, apply custom resolution and fps, and apply stream quality bypasses
-        const settings = Data.load("YABDP4Nitro", "settings"); //just in case we can't access "this";
+        const settings = Data.load("Nitro4All", "settings"); //just in case we can't access "this";
 
         //If custom resolution tick is disabled or custom resolution is set to 0, set it to 1440
         let resolutionToSet = parseInt(settings.CustomResolution);
@@ -2404,7 +2404,7 @@ module.exports = class Nitro4all {
         ApplicationStreamFPSButtons[2].label = fpsToSet.toString();
         ApplicationStreamFPS.FPS_60 = fpsToSet;
 
-        Data.save("YABDP4Nitro", "settings", settings);
+        Data.save("Nitro4All", "settings", settings);
     } //End of unlockAndCustomizeStreamButtons()
     //#endregion
 
@@ -2590,7 +2590,7 @@ module.exports = class Nitro4all {
                             UI.showToast("3y3 copied to clipboard!", { type: "info" });    
                         }catch(err){
                             UI.showToast("Failed to copy to clipboard!", { type: "error", forceShow: true });   
-                            Logger.error("YABDP4Nitro", err);
+                            Logger.error("Nitro4All", err);
                         }
                     }
                 })
@@ -2947,7 +2947,7 @@ module.exports = class Nitro4all {
 
             if(!currentVersionInfo.hasShownChangelog){
                 UI.showChangelogModal({
-                    title: "YABDP4Nitro Changelog",
+                    title: "Changelog Yaaay !",
                     subtitle: config.changelog[0].title,
                     changes: [{
                         title: config.changelog[0].title,
