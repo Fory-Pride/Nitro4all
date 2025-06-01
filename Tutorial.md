@@ -8,6 +8,11 @@ Settings > Profile > Scroll down to Nitro features > Choose your colors > Click 
 
 After copy go to Settings > Profile > your bio > Paste it here and save !
 
+# Instalation :
+For installing the script you requier BetterDiscord, 
+When it is instaled, download : nitro4all.plugin.js, 
+Paste it in : 
+C:User> your username > AppData > Roaming > BetterDiscord > Plugin, or simply run it as admin.
 
 
 
