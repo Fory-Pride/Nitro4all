@@ -1,5 +1,5 @@
  # Tutorial
-Profiles Colors[https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-colors-]
+[Profiles Colors](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-colors-)
 # Profile Colors : 
 
 For changing your profile colors go to :
