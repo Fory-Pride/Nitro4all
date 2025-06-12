@@ -1,5 +1,6 @@
  # Tutorial
-[Profiles Colors](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-colors-) | [Pfp Effects](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#pfp-effect-) | [Instalation](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#instalation-)
+ [Profile Effect](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-effect) | [Profiles Colors](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-colors-) | [Pfp Effects](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#pfp-effect-) | [Instalation](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#instalation-) |
+
 
 # Warning :
 
