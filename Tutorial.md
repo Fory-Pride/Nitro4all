@@ -1,5 +1,5 @@
  # Tutorial
-[Profiles Colors](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-colors-)
+[Profiles Colors](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#profile-colors-) | [Pfp Effects](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#pfp-effect-) | [Instalation](https://github.com/Fory-Pride/Nitro4all/blob/main/Tutorial.md#instalation-)
 # Profile Colors : 
 
 For changing your profile colors go to :
@@ -18,7 +18,6 @@ After copy go to Settings > Profile > your bio > Paste it here and save !
 For installing the script you requier BetterDiscord, 
 When it is instaled, download : nitro4all.plugin.js, 
 Paste it in : 
-C:User> your username > AppData > Roaming > BetterDiscord > Plugin, or simply run it as admin.
-
+C:User> your username > AppData > Roaming > BetterDiscord > Plugin, or simply run it as admin, but the plugin will be mean >:O
 
 
