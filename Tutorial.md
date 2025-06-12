@@ -4,12 +4,19 @@
 
 # Warning :
 
-All effect/pfp/colors/banner/etc take some character in your bio but are not visible,
+ALL CHANGES take some character in your bio but are not visible, SO TAKE CARETO SEE IF YOU GOT ENOUGH SPACE.
 I highly recomend to delete your entire bio, and retype it after pasting the effect/pfp/colors
 
 
+# Animated Pfp :
 
+Go to [Imgur](Imgur.com/upload), upload your image/gif and **COPY THE LINK**,
+Settings > Profile > Nitro Features > you should see an textbox, paste the link here, and click copy, and again paste it in your bio.
 
+# Custom Banner :
+
+Go to [Imgur](Imgur.com/upload), upload your image/gif and **COPY THE LINK**,
+Settings > Profile > Nitro Features > you should see another textbox next to banner, paste the link here, and click copy, and again (for the idk time) paste it in your bio.
 
 # Profile Colors : 
 
@@ -25,7 +32,7 @@ After copy go to Settings > Profile > your bio > Paste it here and save !
 For changing your profile effect, you need space in your bio,
 
 Go to : Settings > Profile > Profile Effect > choose one, 
-Go in your bio and paste it, 
+Go in your bio and paste it, save and it is.
 
 # PFP Effect :
 
