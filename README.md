@@ -52,7 +52,7 @@ i've heard a person say if i can get banned from disocrd using a script, an no i
 
 If you need anithing else pm/dm me on discord : 
 
-@warzone_furry
+@snxtwitch#0000
 
 
 
