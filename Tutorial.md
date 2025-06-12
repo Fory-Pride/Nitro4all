@@ -4,7 +4,7 @@
 
 # Warning :
 
-ALL CHANGES take some character in your bio but are not visible, SO TAKE CARETO SEE IF YOU GOT ENOUGH SPACE.
+ALL CHANGES take some character in your bio but are not visible, SO WATCH OUT IF YOU GOT ENOUGH SPACE.
 I highly recomend to delete your entire bio, and retype it after pasting the effect/pfp/colors
 
 
