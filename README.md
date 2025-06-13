@@ -2,7 +2,7 @@
 
 Require BetterDiscord ! 
 
-https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#betterdiscord-link-
+[BetterDiscord](https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#betterdiscord-link-)
 
 Imgur link :
 
@@ -12,13 +12,13 @@ Imgur link :
 
 Pls check contibutors list :
 
-https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#contributor--thx-to-all-person-under-this-
+[Thanks to all](https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#contributor--thx-to-all-person-under-this-)
 
 
 # Explaination :
 Nitro4all is a javascript wich work with BetterDiscord 
 
-(BetterDiscord link : https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#betterdiscord-link- )
+([BetterDiscord link :](https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#betterdiscord-link-) )
 
 
 # Features : 
