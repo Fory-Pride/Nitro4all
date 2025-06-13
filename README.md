@@ -6,7 +6,7 @@ https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#betterdiscord-link-
 
 Imgur link :
 
-https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#note--use-imgur-picture-links-for-pic-security-reason-
+[Imgur](https://github.com/Fory-Pride/Nitro4all/blob/main/README.md#note--use-imgur-picture-links-for-pic-security-reason-)
 
 
 
