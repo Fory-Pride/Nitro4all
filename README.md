@@ -52,7 +52,7 @@ i've heard a person say if i can get banned from disocrd using a script, an no i
 
 If you need anithing else pm/dm me on discord : 
 
-@snxtwitch#0000
+@eleegd
 
 
 
@@ -61,7 +61,7 @@ If you need anithing else pm/dm me on discord :
 
 Thanks to Gataax for designing the badges,
 Thanks to Dinosorez to be an beta tester, 
-Thanks to Fory for creating the script, 
+Thanks to Elee for creating the script, 
 Thanks to all person who downloaded the script,
 
 # BetterDiscord link : 
